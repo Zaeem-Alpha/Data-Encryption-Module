@@ -122,6 +122,8 @@ Password: admin123
 
 ⚠️ Change the default admin password immediately after first login.
 
+⚠️ DEM is intended for educational and learning purposes.
+
 ---
 
 ## Screenshots
